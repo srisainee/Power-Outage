@@ -2,4 +2,4 @@
 
 ### Maven Data Challenge #28
 
-![alt text](http://url/to/img.png)
+![alt text](/Power Outage Infographic.png)
