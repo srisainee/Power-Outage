@@ -8,4 +8,4 @@ The data pre-prcessing is in [this Jupyter notebook](https://github.com/srisaine
 
 The statistical analysis is in [this Jupyter notebook](https://github.com/srisainee/Power-Outage/blob/main/U.S.%20Power%20Outage%20Analysis.ipynb)
 
-![/Power Outage Infographic.png](https://github.com/srisainee/Power-Outage/blob/main/Power%20Outage%20Infographic.png)https://github.com/srisainee/Power-Outage/blob/main/Power%20Outage%20Infographic.png)
+![/Power Outage Infographic.png](https://github.com/srisainee/Power-Outage/blob/main/Power%20Outage%20Infographic.png)
